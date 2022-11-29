@@ -1,2 +1,4 @@
 # conflict-resolution
-27
+## This is a subheading created locally
+
+Different. All of this content added to the readme file has been added from my local Git repository.
